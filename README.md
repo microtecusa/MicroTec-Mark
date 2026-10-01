@@ -1,9 +1,9 @@
-# Apex Nest
+# MicroTec Mark
 
 Prepares print-ready DTF gang sheets for MicroTec Apex Cut Pro and XC-25 film
-cutters.
+cutters. Formerly Apex Nest.
 
-**[Download the latest release](https://github.com/microtecusa/ApexNest/releases/latest)**
+**[Download the latest release](https://github.com/microtecusa/MicroTec-Mark/releases/latest)**
 
 Requires macOS 14 (Sonoma) or later. Universal — Apple silicon and Intel.
 
